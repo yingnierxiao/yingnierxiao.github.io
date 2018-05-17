@@ -13,11 +13,11 @@
 
 text_color_theme: default #eg: default | dark | forest | ocean | chocolate | orange
 ## Base settings ##
-# url:  #the base hostname & protocol for your site e.g. https://www.someone.com
+# url:  #the base hostname & protocol for your site e.g. https://www.yingnierxiao.com
 baseurl: /
-title: Someone's blog
+title: ZJ's blog
 description: > #this means to ignore newlines until "nav_lists:"
-  Someone's Blog
+  ZJ's Blog
 
 nav_lists:
   - titles:
@@ -34,7 +34,7 @@ nav_lists:
 #   rss:  /feed.xml
 
 ## GitHub repository (if the site is hosted by GitHub) ##
-# repository:  #e.g. someone/someone.github.io
+# repository:  #e.g. yingnierxiao/yingnierxiao.github.io
 # repository_tree:  #e.g. master
 
 ## Language & timezone ##
@@ -43,8 +43,8 @@ timezone: Asia/Shanghai #see https://en.wikipedia.org/wiki/List_of_tz_database_t
 
 ## Author & social ##
 author:
-  name: Someone
-  # email:  #your Email address e.g. someone@site.com
+  name: ZJ
+  # email:  #your Email address e.g. yingnierxiao@site.com
   # facebook:  #your Facebook username
   # twitter:  #your Twitter username
   # github:  #your GitHub username
